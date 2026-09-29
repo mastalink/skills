@@ -1,0 +1,12 @@
+[
+  {"id": "S1", "kind": "title", "duration_s": 4, "narration": "Make room for grace.", "claim_ids": []},
+  {"id": "S2", "kind": "generated_image", "duration_s": 6, "label": "Illustrative image",
+   "prompt": "warm morning light through stained glass in a small Ohio parish, no text, no people's faces",
+   "narration": "Going to confession should not start with a search engine.", "claim_ids": ["C3"]},
+  {"id": "S3", "kind": "capture", "duration_s": 20, "source": "Playwright capture of the Via web build, Lorain search",
+   "narration": "Via shows nearby confession times, each tied to the bulletin it came from.", "claim_ids": ["C1"]},
+  {"id": "S4", "kind": "diagram", "duration_s": 10, "source": "assets/architecture.svg",
+   "narration": "When a bulletin is unclear, Via holds it rather than guess.", "claim_ids": ["C2"]},
+  {"id": "S5", "kind": "capture", "duration_s": 20, "source": "Playwright capture: save a primary and backup plan",
+   "narration": "Pick a time, save a plan, and get a quiet reminder.", "claim_ids": []}
+]

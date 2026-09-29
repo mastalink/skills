@@ -1,0 +1,7 @@
+[
+  {"id": "C1", "text": "Via never shows a confession time it cannot trace to a retained source.",
+   "status": "configured", "evidence": "via docs/verification.md; apps/api publication guards"},
+  {"id": "C2", "text": "Unclear schedules stay held instead of guessed.",
+   "status": "verified", "evidence": "via real-bulletin benchmark 2026-09-12: 0 false accepts, 18 cross-campus claims held"},
+  {"id": "C3", "text": "A calm, hopeful mood for going to confession.", "status": "illustrative", "evidence": null}
+]
